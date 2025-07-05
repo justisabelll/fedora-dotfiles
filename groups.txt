@@ -1,0 +1,4 @@
+ID                    Name                  Installed
+container-management  Container Management        yes
+desktop-accessibility Desktop accessibility       yes
+libreoffice           LibreOffice                 yes
